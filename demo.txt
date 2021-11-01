@@ -1,1 +1,2 @@
-Hello 
+Đây là demo của môn quản lí dự án hệ thông tin
+Ok
